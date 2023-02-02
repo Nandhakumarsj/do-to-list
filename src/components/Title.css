@@ -1,0 +1,17 @@
+.heading{
+    color:#aaa;
+    position:relative;
+    width: 100%;
+    top: 0;
+    left: 0;
+    text-align: center;
+    padding: 10px;
+}
+.heading > h1{
+    font-weight: 300;
+    color:violet
+}
+.heading >img{
+    border-radius: 50%;
+    width: 100px;
+    margin-top: 10px;}

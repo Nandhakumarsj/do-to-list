@@ -1,0 +1,28 @@
+.formgroup{
+    text-align: center;
+    margin: 3%;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.formgroup button{
+  border: 3px solid green;
+  background-color: white;
+  color:red;
+  border-radius: 25%;
+  margin-top:10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 14px;
+  width: max-content;
+}
+.formgroup button:hover{
+  border: 3px solid lawngreen;
+  background-color: white;
+  color:green;
+}
+.formgroup input{
+    height: 40px;
+    width: 50%;
+    color:rgb(49, 81, 85);
+    box-shadow: 2px 2px 7px 1px red;
+    border: 2px solid lawngreen;
+}

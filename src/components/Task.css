@@ -1,0 +1,25 @@
+.item{
+    display: flex;
+    padding:10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top:3%;
+    border:2px transparent #244;
+    border-radius: 6px;
+    box-shadow: 2px 2px 10px 1px rgb(186, 25, 151);
+}
+.item >p{
+    text-indent: 10px;
+    text-align: center;
+    margin-left: 10px;
+}
+.item>input{
+    margin-top: 6px;
+    width: 18px;
+    opacity: .8;
+    accent-color:violet;
+}
+.strike{
+    text-decoration-line: line-through;
+    text-decoration-color: rgb(255, 3, 146);
+}
